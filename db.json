@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "abc",
+      "title": "Todo 1",
+      "isCompleted": false
+    },
+    {
+      "id": "xyz",
+      "title": "Todo 2",
+      "isCompleted": false
+    },
+    {
+      "id": "deg",
+      "title": "Todo 3",
+      "isCompleted": false
+    },
+    {
+      "id": "d6ea",
+      "title": "Hello Uttam",
+      "isCompleted": false
+    }
+  ]
+}
