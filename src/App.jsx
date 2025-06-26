@@ -38,6 +38,7 @@ const App = () => {
 
    
 const Remover = async (id) => {
+  
   await fetch(`http://localhost:3000/todos/${id}`, { //template literal - jekhane string vitore variable o boste pare
     method: "DELETE"
   });
