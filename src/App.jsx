@@ -14,6 +14,7 @@ const App = () => {
       });
   };
 
+
   useEffect(() => {
     fetchAllTodos();
   },[]);  //dependency array khali
